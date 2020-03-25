@@ -41,7 +41,7 @@ There are three ways to add Testimonials:
 
 Note - You can customize attribute's values according to your need.
 
-=  I have some problems with the plugin's work. What Information should I provide to receive proper support? = 
+I have some problems with the plugin's work. What Information should I provide to receive proper support?
 
 Please make sure that the problem hasn't been discussed on our plugin's support forum yet. 
 If not, please provide the following data along with your problem's description:
@@ -51,7 +51,7 @@ If not, please provide the following data along with your problem's description:
 * The version of your WordPress installation.
 * Copy and paste your error message.
 
-== Changelog ==
+### Changelog
 
 = 1.1.3 =
 WP 4.9 Compatibility - Resolved the color picker issue in settings.
